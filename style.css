@@ -376,6 +376,32 @@ p {
         line-height: 1.090909090909091;
     }
 
+    /* Curriculum ********************************************* */
+    .curriculum .section-desc {
+        margin-bottom: 72px;
+    }
+
+    .curriculum .img-box {
+        margin-bottom: 24px;
+        width: 450px;
+        height: 450px;
+    }
+
+    .curriculum img {
+        display: block;
+        width: 425px;
+        height: auto;
+    }
+
+    .curriculum-content {
+        font-size: 18px;
+        line-height: 1.444444444444444;
+    }
     
+    .curriculum-content strong {
+        font-weight: 700;
+    }
+
+
 
 }
